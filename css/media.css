@@ -1,0 +1,195 @@
+@media (max-width: 1024px) { 
+    #about-us .item {
+    width: 50%;
+    margin-bottom: 25px;
+    }
+
+    .navbar .menu{
+      display: block;
+      margin-left: auto;
+      margin-top: 15px;
+      font-size: 25px;
+      color: #fff;
+    }
+
+    .navbar .nav-menu ul {
+     display: none;
+    }
+} 
+
+@media (max-width: 768px) { 
+    .contanier{
+       width:80% ;
+   }
+   
+   #Home .caption h1 {
+    font-size: 37px;
+}
+
+#Home .caption p {
+     font-size: 18px;
+}
+
+.about .about-content {
+width: 100%;
+padding-left: 0;
+}
+
+.about .about-img {
+width: 100%;
+margin-block: 15px;
+vertical-align: middle;
+}
+
+.about .about-content p {
+font-size: 18px;
+}
+
+#our-location .contanier {
+flex-direction:column ;
+}
+
+#our-location .right-side {
+width: 100%;
+margin-top: 25px;
+
+}
+
+#our-location .left-side {
+width: 100%;
+margin-top: 15px;
+}
+#our-location .left-side p {
+max-width: 500px;
+}
+
+
+#baking .items {
+flex-direction: column;
+}
+#baking .items .item {
+width: 100%;
+}
+
+#baking .items .item img {
+margin-top: 25px;
+width:108%;
+}
+
+#contact .contact-info {
+width: 100%;
+margin-top: 30px;
+}
+
+#contact .contact-map {
+width: 100%;
+margin-block: 30px;
+
+}
+
+#contact .map{
+width: 100%;
+}
+
+#baking .items .item {
+width: 100%;
+}
+
+#about-us .item {
+width: 100%;
+margin-bottom: 30px;
+} 
+
+#about-us .item .first-text {
+max-width: 550px;
+}
+ } 
+ @media (max-width: 640px) {
+    .contanier{
+        width: 90%;
+        margin: auto;
+    }
+
+    #Home .caption h1 {
+        font-size: 37px;
+    }
+
+    #Home .caption p {
+         font-size: 18px;
+    }
+
+  .about .about-content {
+    width: 100%;
+    padding-left: 0;
+  }
+
+  .about .about-img {
+    width: 100%;
+    margin-block: 15px;
+  }
+
+  .about .about-content p {
+    font-size: 18px;
+  }
+
+   #our-location .contanier {
+    flex-direction:column ;
+  }
+
+  #our-location .right-side {
+    width: 100%;
+    margin-top: 25px;
+
+  }
+
+  #our-location .left-side {
+    width: 100%;
+    margin-top: 15px;
+  }
+  #our-location .left-side p {
+    max-width: 500px;
+  }
+
+
+  #baking .items {
+flex-direction: column;
+  }
+  #baking .items .item {
+  width: 100%;
+  }
+
+  #baking .items .item img {
+  margin-top: 25px;
+  width:105%;
+  }
+
+  #contact .contact-info {
+width: 100%;
+margin-top: 30px;
+  }
+
+  #contact .contact-map {
+width: 100%;
+margin-block: 30px;
+
+  }
+
+  #contact .map{
+    width: 100%;
+  }
+
+  #baking .items .item {
+width: 100%;
+  }
+
+  #about-us .item {
+width: 100%;
+margin-bottom: 30px;
+  } 
+
+  #about-us .item .first-text {
+    max-width: 550px;
+  }
+} 
+
+
